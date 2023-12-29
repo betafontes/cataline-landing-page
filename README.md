@@ -21,7 +21,6 @@ landing page e tentei deixa-lo mais atrativo adicionando animações como no pro
 
 ## 🖼️ Layout
 
-https://betafontes.github.io/cataline-landing-page/
 
 ![image](https://user-images.githubusercontent.com/70981960/213766296-bd4ceee3-54e2-4835-a7a8-e1d491f19fdf.png)
 
