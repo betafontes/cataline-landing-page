@@ -17,7 +17,7 @@ Esse repositório contém essas tais tecnologias :
 ## 💻 Projeto
 
 Esse repositório foi desenvolvido inspirado no site da Cataline, uma das grandes plataformas de ensino do mundo da programação. Desenvolvi a parte inicial do site como uma
-landing page e tentei deixa-lo mais atrativo adicionando animações como no proprio site!!
+landing page e tentei deixa-lo mais atrativo adicionando animações como no proprio site !
 
 ## 🖼️ Layout
 
